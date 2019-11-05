@@ -6,13 +6,13 @@ Bienvenido al repositorio micro;phone. Aquí, guardaremos el código y pondremos
 
 El Asistente es básicamente un programa copiador de archivos glorificado. Este detecta si alguna de las unidades contiene el archivo DETAILS.TXT, que solo tienen las placas micro;bit, luego utiliza un ComboBox para detectar el programa que el usuario desea usar, y copia el archivo almacenado en la carpeta del proyecto a la unidad.
 
-## What are its functions?
+## ¿Cuáles son sus funciones?
 
-### Communicator
+### Comunicador
 
 El comunicador funciona transmitiendo palabras individuales a otra micro;bit en el mismo grupo.
 
-### Calculator
+### Calculadora
 
 Una calculadora normal, pero en la micro;bit. Nada más.
 
@@ -20,10 +20,10 @@ Una calculadora normal, pero en la micro;bit. Nada más.
 
 Una cuenta regresiva normal, pero en la micro;bit. Nada más.
 
-### Custom
+### Personalizado
 
 Si tienes tu propio fragmento, usa esto y el botón Examinar para insertarlo en la micro;bit.
 
-## Forking policy
+## Política de bifurcación
 
 Sería muy amable de tu parte darnos crédito apropiado.
