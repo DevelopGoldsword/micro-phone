@@ -8,7 +8,7 @@ The communicator works by transmitting individual words to another micro;bit on 
 ### Calculator
 A normal calculator, but on the micro;bit. Nothing else.
 ### Countdown
-A normal countdown, but on the micro;bit. Nothing elshave.
+A normal countdown, but on the micro;bit. Nothing else.
 ### Custom
 If you have your own snippet, use this and the browse button to insert it into the micro;bit.
 ## Forking policy
